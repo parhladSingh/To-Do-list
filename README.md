@@ -11,6 +11,17 @@ Welcome to my interactive to-do list project! This web application was built usi
 - **Local Storage**: Your tasks are saved in the browser's local storage, so they persist even after refreshing the page.
 - **Responsive Design**: The interface is responsive and adapts to different screen sizes.
 
+## Quick Demo
+
+- *Live link* - https://parhladsingh.github.io/To-Do-list/
+
+- 
+
+https://github.com/parhladSingh/To-Do-list/assets/142223673/982759c0-de54-446a-a4ac-736ccab74989
+
+
+
+
 ## Technologies Used
 
 1. HTML
@@ -26,13 +37,16 @@ Follow the steps below to install and run the project on your local machine.
 
 
 *1. Clone this repository:*
-     bash
+```
+   
       git clone https://github.com/parhladSingh/To-Do-list.git
 
+
 *2. Access the project directory:*
-     bash
+```
+   
       cd To-Do-list
 
- **3. Open the index.html file in your web browser and see the magic.**
+3. Open the **index.html** file in your web browser and see the magic.
 
 
