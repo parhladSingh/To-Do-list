@@ -13,7 +13,7 @@ Welcome to my interactive to-do list project! This web application was built usi
 
 ## Quick Demo
 
-- *Live link* - https://parhladsingh.github.io/To-Do-list/
+- *Live link* - https://to-do-list-five-orcin.vercel.app/
 
 
 https://github.com/parhladSingh/To-Do-list/assets/142223673/982759c0-de54-446a-a4ac-736ccab74989
